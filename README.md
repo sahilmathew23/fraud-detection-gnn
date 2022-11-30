@@ -12,4 +12,5 @@ in main folder below notebooks can be found
 4. Modelling (1).ipynb
 5. Prediction (1).ipynb
 
-in 
+in DeployMLModel below notebook can be found
+6. Deployment.ipynb
